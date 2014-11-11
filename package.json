@@ -3,7 +3,7 @@
     "title": "ContextMenu Toggle Comment",
     "description": "Adds the menu item into the context menu of the editor to toggle a comment.",
     "homepage": "https://github.com/maxgrass/brackets.cm_toggle_comment",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "author": "Max Grass <max@maxgrass.eu>",
     "license": "MIT",
     "engines": {
